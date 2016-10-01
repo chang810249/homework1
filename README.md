@@ -12,7 +12,6 @@ Here are some related talks:<br>
 * [+10] Please find a recent paper (2014-2015) which introduced a NN with memory.
 * [+50] Write a report to briefly introduce the paper;
 * [+40] then, focus on discussing the unique properties of the new NN and where it can be applied to take advantage of the properties.
-* c_t^j=f_t^j c_(t-1)^j+i_t^j c ̃_t^j
 # Candidates
 * Search RNN on Arxiv-sanity <a href="http://www.arxiv-sanity.com/search?q=rnn">link</a>
 * Jianpeng Cheng et al. Long Short-Term Memory-Networks for Machine Reading. arXiv16’. 
